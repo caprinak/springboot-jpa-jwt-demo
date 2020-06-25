@@ -1,0 +1,26 @@
+/*INSERT INTO satori.product(product_id,product_name,category_id) VALUES (1,'IPAD',2);
+INSERT INTO satori.product(product_id,product_name,category_id) VALUES (2,'IPHONE',1);
+INSERT INTO satori.product(product_id,product_name,category_id) VALUES (3,'NOTE',2);
+INSERT INTO satori.product(product_id,product_name,category_id) VALUES (4,'MACBOOK',3);
+INSERT INTO satori.product(product_id,product_name,category_id) VALUES (5,'DELL',3);
+INSERT INTO satori.product(product_id,product_name,category_id) VALUES (6,'BMW',4);
+INSERT INTO satori.product(product_id,product_name,category_id) VALUES (7,'CAMRY',4);
+INSERT INTO satori.product(product_id,product_name,category_id) VALUES (8,'AIR BLADE',5);
+INSERT INTO satori.product(product_id,product_name,category_id) VALUES (9,'NOUVO',5);
+INSERT INTO satori.product(product_id,product_name,category_id) VALUES (10,'CIVIC',4);
+INSERT INTO satori.category(id,category_name) VALUES (1,'phone');
+INSERT INTO satori.category(id,category_name) VALUES (2,'tablet');
+INSERT INTO satori.category(id,category_name) VALUES (3,'laptop');
+INSERT INTO satori.category(id,category_name) VALUES (4,'car');
+INSERT INTO satori.category(id,category_name) VALUES (5,'bike');
+INSERT INTO satori.product(product_name,category_id) VALUES ('IPAD',2);
+INSERT INTO satori.product(product_name,category_id) VALUES ('IPHONE',1);
+INSERT INTO satori.product(product_name,category_id) VALUES ('NOTE',2);
+INSERT INTO satori.product(product_name,category_id) VALUES ('MACBOOK',3);
+INSERT INTO satori.product(product_name,category_id) VALUES ('DELL',3);
+INSERT INTO satori.product(product_name,category_id) VALUES ('BMW',4);
+INSERT INTO satori.product(product_name,category_id) VALUES ('CAMRY',4);
+INSERT INTO satori.product(product_name,category_id) VALUES ('AIR BLADE',5);
+INSERT INTO satori.product(product_name,category_id) VALUES ('NOUVO',5);
+INSERT INTO satori.product(product_name,category_id) VALUES ('CIVIC',4);
+*/
